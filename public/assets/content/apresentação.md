@@ -1,20 +1,36 @@
-### Nossa história
-<small>de nossa construtora Conquistense</small>  
+<h3>Missão</h3>
+<small>nosso compromisso diário</small>
 
-A Confidence é multi-disciplinar empresa de construção civil focada em servir nossos clientes, empoderando nossos colaboradores, e melhorando as comunidades.
+<p>
+Buscar a excelência na execução de obras e serviços é o princípio que orienta todas as nossas decisões.
+Trabalhamos com foco total na qualidade, na segurança e no cumprimento rigoroso dos prazos,
+entregando soluções sólidas que atendem às necessidades reais de cada cliente.
+</p>
 
-De origem Conquistense, em 2017, a Confidence começou atuando em Vitória da Conquista como expansão de um empresa imobiliária, adquirindo experiência e expandindo negócios para fora da cidade a medida que conseguia parcerias e negócios. Nossas maiores conquistas estão em negócios gratificantes os com a Solar Coca-Cola e a Sudesb.  
+<p>
+Cumprimos de forma estrita os requisitos do sistema de gestão da qualidade e todas as normas legais aplicáveis,
+assegurando conformidade, confiabilidade e transparência em cada etapa dos nossos projetos.
+</p>
 
-Não temos medo algum de expandir e com sabedoria, agregamos mais e mais parceiros especialistas que estão sempre colaborando conosco.
+<h3>Valores</h3>
+<small>o que sustenta nossa forma de trabalhar</small>
 
-### Como a nossa empresa faz para resolver problemas 
-<small>e agregar valor</small>
+<p>
+A satisfação dos clientes é prioridade absoluta. Buscamos elevá-la e mantê-la por meio de entregas seguras,
+pontuais e com alto padrão de qualidade, construindo relações de confiança duradouras.
+</p>
 
-Temos uma equipe focada no agora, com forte liderança e força de vontade, nossa forma de resolver problemas é os encarado como desafios, oportunidades de crescimento e de mais negócios.
+<p>
+Temos compromisso permanente com a melhoria contínua dos processos, da qualidade dos produtos e dos serviços,
+apoiando de forma consistente o direcionamento estratégico da empresa e sua evolução sustentável.
+</p>
 
-### Nossos diferenciais estão em:
-<small>tudo que fazemos</small>
+<p>
+Acreditamos no desenvolvimento das pessoas. Incentivamos a capacitação constante da equipe e o uso de
+tecnologias inovadoras como base para eficiência, competitividade e excelência técnica.
+</p>
 
-- [x] Preços e atitudes altamente competitivas  
-- [x] Flexibilidade, visão e persistência no trabalho  
-- [x] Enfoque na liderança e no pessoal 
+<p>
+Atuamos com responsabilidade social e ambiental, garantindo a sustentabilidade em todas as obras
+e contribuindo positivamente para as comunidades onde estamos presentes.
+</p>
